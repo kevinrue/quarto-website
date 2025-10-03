@@ -1,9 +1,27 @@
 ---
-title: "quarto-website"
+title: ""
+format: 
+  html:
+    page-layout: full
+    toc: false
 ---
 
+:::: {.columns}
+
+::: {.column width="20%"}
+![](static/images/kevinrue.jpg){style="border-radius: 50%"}
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="70%"}
 ## Biography
 
 I am a **computational biologist** and **biomedical data science trainer** at the [University of Oxford](https://ox.ac.uk), with a focus on functional genomics, transcriptomics, and single-cell sequencing technologies.
 
 I actively develop solutions for interactive data visualisation and research software engineering to advance biological discovery. I am an active contributor to the Bioconductor project, developing and maintaining R packages for the community. My academic research explores the host immune response to infectious diseases, inflammation, and self-antigens.
+:::
+
+::::
