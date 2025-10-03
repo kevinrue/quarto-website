@@ -8,11 +8,14 @@ format:
 
 :::: {.columns}
 
-::: {.column width="20%"}
+::: {.column width="25%"}
 ![](static/images/kevinrue.jpg){style="border-radius: 50%"}
+
+### Kevin Rue-Albrecht {style="text-align: center"}
+
 :::
 
-::: {.column width="10%"}
+::: {.column width="5%"}
 
 :::
 
