@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Kevin Rue-Albrecht - quarto-website</title>
+<title>Kevin Rue-Albrecht -</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -97,45 +97,30 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#biography" id="toc-biography" class="nav-link active" data-scroll-target="#biography">Biography</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">quarto-website</h1>
+
+
+<div class="columns">
+<div class="column" style="width:20%;">
+<p><img src="static/images/kevinrue.jpg" class="img-fluid" style="border-radius: 50%"></p>
+</div><div class="column" style="width:10%;">
+
+</div><div class="column" style="width:70%;">
+<section id="biography" class="level2">
+<h2 class="anchored" data-anchor-id="biography">Biography</h2>
+<p>I am a <strong>computational biologist</strong> and <strong>biomedical data science trainer</strong> at the <a href="https://ox.ac.uk">University of Oxford</a>, with a focus on functional genomics, transcriptomics, and single-cell sequencing technologies.</p>
+<p>I actively develop solutions for interactive data visualisation and research software engineering to advance biological discovery. I am an active contributor to the Bioconductor project, developing and maintaining R packages for the community. My academic research explores the host immune response to infectious diseases, inflammation, and self-antigens.</p>
+</section>
+</div>
 </div>
 
 
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-</header>
-
-<section id="biography" class="level2">
-<h2 class="anchored" data-anchor-id="biography">Biography</h2>
-<p>I am a <strong>computational biologist</strong> and <strong>biomedical data science trainer</strong> at the University of Oxford, with a focus on functional genomics, transcriptomics, and single-cell sequencing technologies.</p>
-<p>I actively develop solutions for interactive data visualisation and research software engineering to advance biological discovery. I am an active contributor to the Bioconductor project, developing and maintaining R packages for the community. My academic research explores the host immune response to infectious diseases, inflammation, and self-antigens.</p>
-
-
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -369,6 +354,22 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp("https:\/\/kevinrue\.github\.io\/quarto-website\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
