@@ -1,5 +1,31 @@
 ---
-title: "About"
+title: "Curriculum Vitae"
 ---
 
-About this site
+### Kevin Rue-Albrecht
+
+**Computational Biologist (Dipl. Ing., Ph.D.)**
+
+#### Education
+
+**2015 -- University College Dublin**
+
+DPhil, Computational Infection Biology
+
+**Thesis:** Comparative systems biology analyses of the bovine transcriptional response to species of the Mycobacterium genus.
+
+---
+
+**2011 -- École Polytechnique Universitaire Polytech Nice-Sophia**
+
+Ingénieur diplômé
+
+**Major:** Bioinformatics and Modelling for Biology
+
+---
+
+**2008 -- CPGE BCPST Véto - Lycée Jean Rostand**
+
+Class Préparatoire aux Grandes Écoles
+
+**'BCPST':** Biology, Chemistry, Physics, Earth Sciences
