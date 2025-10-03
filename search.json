@@ -1,7 +1,7 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "cv.html",
+    "href": "cv.html",
     "title": "About",
     "section": "",
     "text": "About this site"
@@ -11,6 +11,13 @@
     "href": "index.html",
     "title": "quarto-website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics, transcriptomics, and single-cell sequencing technologies.\nI actively develop solutions for interactive data visualisation and research software engineering to advance biological discovery. I am an active contributor to the Bioconductor project, developing and maintaining R packages for the community. My academic research explores the host immune response to infectious diseases, inflammation, and self-antigens."
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "quarto-website",
+    "section": "",
+    "text": "I am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics, transcriptomics, and single-cell sequencing technologies.\nI actively develop solutions for interactive data visualisation and research software engineering to advance biological discovery. I am an active contributor to the Bioconductor project, developing and maintaining R packages for the community. My academic research explores the host immune response to infectious diseases, inflammation, and self-antigens."
   }
 ]
