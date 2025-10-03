@@ -13,6 +13,10 @@ format:
 
 ### Kevin Rue-Albrecht {style="text-align: center"}
 
+[{{< fa at size=2xl >}}](mailto:kevin.rue-albrecht@imm.ox.ac.uk)
+[{{< fa brands google-scholar size=2xl >}}](https://scholar.google.co.uk/citations?user=JV0DWBQAAAAJ)
+[{{< fa brands github size=2xl >}}](https://github.com/kevinrue)
+[{{< fa brands dev size=2xl >}}](https://dev.to/kevinrue)
 :::
 
 ::: {.column width="5%"}
