@@ -2,11 +2,9 @@
 title: "Curriculum Vitae"
 ---
 
-### Kevin Rue-Albrecht
+**Kevin Rue-Albrecht, Computational Biologist (Dipl. Ing., Ph.D.)**
 
-**Computational Biologist (Dipl. Ing., Ph.D.)**
-
-#### Education
+### Education
 
 **2015 -- University College Dublin**
 
@@ -29,3 +27,10 @@ Ingénieur diplômé
 Class Préparatoire aux Grandes Écoles
 
 **'BCPST':** Biology, Chemistry, Physics, Earth Sciences
+
+### Research experience
+
+**2020 - present**
+
+Computational Biologist - Biomedical Data Science trainer
+Sims Group, MRC WIMM Centre for Computational Biology, University of Oxford
