@@ -6,7 +6,7 @@ title: "Curriculum Vitae"
 
 ### Education
 
-**2015 -- University College Dublin**
+**2011-2015 -- University College Dublin (Ireland)**
 
 DPhil, Computational Infection Biology
 
@@ -14,7 +14,7 @@ DPhil, Computational Infection Biology
 
 ---
 
-**2011 -- École Polytechnique Universitaire Polytech Nice-Sophia**
+**2008-2011 -- École Polytechnique Universitaire Polytech Nice-Sophia (France)**
 
 Ingénieur diplômé
 
@@ -22,15 +22,14 @@ Ingénieur diplômé
 
 ---
 
-**2008 -- CPGE BCPST Véto - Lycée Jean Rostand**
+**2006-2008 -- Lycée Jean Rostand, Strasbourg (France)**
 
-Class Préparatoire aux Grandes Écoles
+Class Préparatoire aux Grandes Écoles BCPST-Véto
 
 **'BCPST':** Biology, Chemistry, Physics, Earth Sciences
 
 ### Research experience
 
-**2020 - present**
+**2020-present -- Computational Biologist & Biomedical Data Science trainer**
 
-Computational Biologist - Biomedical Data Science trainer
-Sims Group, MRC WIMM Centre for Computational Biology, University of Oxford
+Sims Group (University of Oxford)
