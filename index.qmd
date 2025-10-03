@@ -22,9 +22,13 @@ format:
 ::: {.column width="70%"}
 ## Biography
 
-I am a **computational biologist** and **biomedical data science trainer** at the [University of Oxford](https://ox.ac.uk), with a focus on functional genomics, transcriptomics, and single-cell sequencing technologies.
+I am a **computational biologist** and **biomedical data science trainer** at the [University of Oxford](https://ox.ac.uk), with a focus on functional genomics and single-cell sequencing.
 
-I actively develop solutions for interactive data visualisation and research software engineering to advance biological discovery. I am an active contributor to the Bioconductor project, developing and maintaining R packages for the community. My academic research explores the host immune response to infectious diseases, inflammation, and self-antigens.
+I actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.
+
+Inspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.
+
+I am also an active contributor to the [Bioconductor](https://www.bioconductor.org/) project, where I develop and maintain R packages together with the community.
 :::
 
 ::::
