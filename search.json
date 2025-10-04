@@ -2,22 +2,22 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "About",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "About this site"
+    "text": "Kevin Rue-Albrecht, Computational Biologist (Dipl. Ing., Ph.D.)\n\nEducation\n\n\n2011-2015\n\n\nDPhil, Computational Infection Biology\n\n\nUniversity College Dublin (Ireland)\n\n\nThesis: Comparative systems biology analyses of the bovine transcriptional response to species of the Mycobacterium genus.\n\n\n\n\n2008-2011\n\n\nIngénieur diplômé\n\n\nÉcole Polytechnique Universitaire Polytech Nice-Sophia (France)\n\n\nMajor: Bioinformatics and Modelling for Biology\n\n\n\n\n2006-2008\n\n\nClass Préparatoire aux Grandes Écoles BCPST-Véto\n\n\nLycée Jean Rostand, Strasbourg (France)\n\n\n‘BCPST’: Biology, Chemistry, Physics, Earth Sciences\n\n\n\n\nResearch Experience\n\n\n2020-present\n\n\nComputational Biologist & Biomedical Data Science Trainer\n\n\nSims Group (University of Oxford)\n\n\nLeading computational biology research and training programs in functional genomics and single-cell sequencing technologies."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Kevin Rue-Albrecht",
     "section": "",
-    "text": "I am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics, transcriptomics, and single-cell sequencing technologies.\nI actively develop solutions for interactive data visualisation and research software engineering to advance biological discovery. I am an active contributor to the Bioconductor project, developing and maintaining R packages for the community. My academic research explores the host immune response to infectious diseases, inflammation, and self-antigens."
+    "text": "I am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
   },
   {
     "objectID": "index.html#biography",
     "href": "index.html#biography",
     "title": "Kevin Rue-Albrecht",
     "section": "",
-    "text": "I am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics, transcriptomics, and single-cell sequencing technologies.\nI actively develop solutions for interactive data visualisation and research software engineering to advance biological discovery. I am an active contributor to the Bioconductor project, developing and maintaining R packages for the community. My academic research explores the host immune response to infectious diseases, inflammation, and self-antigens."
+    "text": "I am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
   }
 ]
