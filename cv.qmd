@@ -4,32 +4,70 @@ title: "Curriculum Vitae"
 
 **Kevin Rue-Albrecht, Computational Biologist (Dipl. Ing., Ph.D.)**
 
+::: {.cv-section}
 ### Education
 
-**2011-2015 -- University College Dublin (Ireland)**
-
+::: {.cv-entry}
+::: {.cv-dates}
+2011-2015
+:::
+::: {.cv-title}
 DPhil, Computational Infection Biology
-
+:::
+::: {.cv-location}
+University College Dublin (Ireland)
+:::
+::: {.cv-description}
 **Thesis:** Comparative systems biology analyses of the bovine transcriptional response to species of the Mycobacterium genus.
+:::
+:::
 
----
-
-**2008-2011 -- École Polytechnique Universitaire Polytech Nice-Sophia (France)**
-
+::: {.cv-entry}
+::: {.cv-dates}
+2008-2011
+:::
+::: {.cv-title}
 Ingénieur diplômé
-
+:::
+::: {.cv-location}
+École Polytechnique Universitaire Polytech Nice-Sophia (France)
+:::
+::: {.cv-description}
 **Major:** Bioinformatics and Modelling for Biology
+:::
+:::
 
----
-
-**2006-2008 -- Lycée Jean Rostand, Strasbourg (France)**
-
+::: {.cv-entry}
+::: {.cv-dates}
+2006-2008
+:::
+::: {.cv-title}
 Class Préparatoire aux Grandes Écoles BCPST-Véto
-
+:::
+::: {.cv-location}
+Lycée Jean Rostand, Strasbourg (France)
+:::
+::: {.cv-description}
 **'BCPST':** Biology, Chemistry, Physics, Earth Sciences
+:::
+:::
+:::
 
-### Research experience
+::: {.cv-section}
+### Research Experience
 
-**2020-present -- Computational Biologist & Biomedical Data Science trainer**
-
+::: {.cv-entry}
+::: {.cv-dates}
+2020-present
+:::
+::: {.cv-title}
+Computational Biologist & Biomedical Data Science Trainer
+:::
+::: {.cv-location}
 Sims Group (University of Oxford)
+:::
+::: {.cv-description}
+Leading computational biology research and training programs in functional genomics and single-cell sequencing technologies.
+:::
+:::
+:::
