@@ -19,6 +19,7 @@ On small screens, biography is pushed to another row below the photo.
 
 ### Kevin Rue-Albrecht
 
+::: {style="margin-top: 1rem;"}
 [{{< fa at size=2xl >}}](mailto:kevin.rue-albrecht@imm.ox.ac.uk)
 &nbsp;
 [{{< fa brands google-scholar size=2xl >}}](https://scholar.google.co.uk/citations?user=JV0DWBQAAAAJ)
@@ -26,6 +27,7 @@ On small screens, biography is pushed to another row below the photo.
 [{{< fa brands github size=2xl >}}](https://github.com/kevinrue)
 &nbsp;
 [{{< fa brands dev size=2xl >}}](https://dev.to/kevinrue)
+:::
 :::
 
 ::: {.profile-bio}
