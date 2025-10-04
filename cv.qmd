@@ -9,7 +9,7 @@ title: "Curriculum Vitae"
 
 ::: {.cv-entry}
 ::: {.cv-dates}
-2011-2015
+2011 - 2015
 :::
 ::: {.cv-title}
 DPhil, Computational Infection Biology
@@ -24,7 +24,7 @@ University College Dublin (Ireland)
 
 ::: {.cv-entry}
 ::: {.cv-dates}
-2008-2011
+2008 - 2011
 :::
 ::: {.cv-title}
 Ingénieur diplômé
@@ -39,7 +39,7 @@ Ingénieur diplômé
 
 ::: {.cv-entry}
 ::: {.cv-dates}
-2006-2008
+2006 - 2008
 :::
 ::: {.cv-title}
 Class Préparatoire aux Grandes Écoles BCPST-Véto
@@ -48,7 +48,7 @@ Class Préparatoire aux Grandes Écoles BCPST-Véto
 Lycée Jean Rostand, Strasbourg (France)
 :::
 ::: {.cv-description}
-**'BCPST':** Biology, Chemistry, Physics, Earth Sciences
+**BCPST:** Biology, Chemistry, Physics, Earth Sciences
 :::
 :::
 :::
@@ -58,7 +58,7 @@ Lycée Jean Rostand, Strasbourg (France)
 
 ::: {.cv-entry}
 ::: {.cv-dates}
-2020-present
+2020 - present
 :::
 ::: {.cv-title}
 Computational Biologist & Biomedical Data Science Trainer
@@ -67,13 +67,13 @@ Computational Biologist & Biomedical Data Science Trainer
 Sims Group (University of Oxford)
 :::
 ::: {.cv-description}
-Leading computational biology research and training programs in functional genomics and single-cell sequencing technologies.
+Contributing to computational biology research and training programs in functional genomics and single-cell sequencing analysis.
 :::
 :::
 
 ::: {.cv-entry}
 ::: {.cv-dates}
-2017-2020
+2017 - 2020
 :::
 ::: {.cv-title}
 Postdoctoral Researcher - Computational Biologist
@@ -83,6 +83,52 @@ Sansom Group (University of Oxford)
 :::
 ::: {.cv-description}
 Contributed to the study of Inflammatory bowel disease pathogenesis and T-cell development through the development of computational pipelines for bespoke data analysis.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2016 - 2017
+:::
+::: {.cv-title}
+Postdoctoral Researcher - Computational Biologist
+:::
+::: {.cv-location}
+Ratcliffe Group (University of Oxford)
+:::
+::: {.cv-description}
+Managed data and computational workflows for high-throughput sequencing projects including targeted DNA resequencing, ChIP-seq, and RNA-seq for renal cancer research.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2015 - 2016
+:::
+::: {.cv-title}
+Research associate - Bioinformatics & Biostatistics
+:::
+::: {.cv-location}
+Wilkins Group (Imperial College London)
+:::
+::: {.cv-description}
+Managed data and computational workflows for high-throughput sequencing projects including targeted DNA resequencing, ChIP-seq, and RNA-seq for renal cancer research.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Apr 2012 -\
+Jun 2012
+:::
+::: {.cv-title}
+PhD Rotation Project - Bioinformatics & Biostatistics
+:::
+::: {.cv-location}
+O'Gara Group (University College Dublin)
+:::
+::: {.cv-description}
+Evaluated the role of a gene candidate underlying *Staphylococcus aureus* antibiotic resistance by Sanger sequencing and biofilm assay.
 :::
 :::
 :::
