@@ -119,16 +119,48 @@ Managed data and computational workflows for high-throughput sequencing projects
 ::: {.cv-entry}
 ::: {.cv-dates}
 Apr 2012 -\
-Jun 2012
+Jul 2012
 :::
 ::: {.cv-title}
-PhD Rotation Project - Bioinformatics & Biostatistics
+PhD Rotation Project - Molecular biology
 :::
 ::: {.cv-location}
 O'Gara Group (University College Dublin)
 :::
 ::: {.cv-description}
 Evaluated the role of a gene candidate underlying *Staphylococcus aureus* antibiotic resistance by Sanger sequencing and biofilm assay.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Jan 2012 -\
+Apr 2012
+:::
+::: {.cv-title}
+PhD Rotation Project - Molecular biology
+:::
+::: {.cv-location}
+Ferguson Group (University College Dublin)
+:::
+::: {.cv-description}
+Expressed and purified a Hepatitis B protein construct for experimental screening of interacting drug fragments.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Sep 2011 -\
+Jan 2012
+:::
+::: {.cv-title}
+PhD Rotation Project - Molecular biology
+:::
+::: {.cv-location}
+Shield Group (University College Dublin)
+:::
+::: {.cv-description}
+Predicted *Mycobacterium bovis* epitopes in cattle using *in silico* structure-based modelling.
 :::
 :::
 :::
