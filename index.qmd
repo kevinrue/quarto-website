@@ -6,12 +6,18 @@ format:
     toc: false
 ---
 
-:::: {.columns}
+<!--
+Fluid two-column layout with photo and biography.
+On small screens, biography is pushed to another row below the photo.
+-->
 
-::: {.column width="25%"}
-![](static/images/kevinrue.jpg){style="border-radius: 50%"}
+::: {.container-fluid}
+::: {.row}
 
-### Kevin Rue-Albrecht {style="text-align: center"}
+::: {.profile-photo}
+![](static/images/kevinrue.jpg){style="border-radius: 50%" .img-fluid}
+
+### Kevin Rue-Albrecht
 
 [{{< fa at size=2xl >}}](mailto:kevin.rue-albrecht@imm.ox.ac.uk)
 &nbsp;
@@ -22,11 +28,7 @@ format:
 [{{< fa brands dev size=2xl >}}](https://dev.to/kevinrue)
 :::
 
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="70%"}
+::: {.profile-bio}
 ## Biography
 
 I am a **computational biologist** and **biomedical data science trainer** at the [University of Oxford](https://ox.ac.uk), with a focus on functional genomics and single-cell sequencing.
@@ -38,4 +40,5 @@ Inspiration from these collaborations drives my development of research software
 I am also an active contributor to the [Bioconductor](https://www.bioconductor.org/) project, where I develop and maintain R packages together with the community.
 :::
 
-::::
+:::
+:::

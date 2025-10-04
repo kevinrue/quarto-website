@@ -4,3 +4,71 @@ a {
   color: blue;
   text-decoration: none;
 }
+
+/* Ensure Bootstrap grid works properly in Quarto */
+.container-fluid {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+/* Column classes for responsive layout */
+.profile-photo {
+  padding-right: 15px;
+  padding-left: 15px;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.profile-bio {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+/* Responsive breakpoints */
+@media (min-width: 992px) {
+  .profile-photo {
+    flex: 0 0 25%;
+    max-width: 25%;
+    margin-bottom: 0;
+  }
+  
+  .profile-bio {
+    flex: 0 0 75%;
+    max-width: 75%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .profile-photo {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+    margin-bottom: 0;
+  }
+  
+  .profile-bio {
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .profile-photo {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  
+  .profile-bio {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
