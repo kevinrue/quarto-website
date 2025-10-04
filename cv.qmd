@@ -70,4 +70,19 @@ Sims Group (University of Oxford)
 Leading computational biology research and training programs in functional genomics and single-cell sequencing technologies.
 :::
 :::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2017-2020
+:::
+::: {.cv-title}
+Postdoctoral Researcher - Computational Biologist
+:::
+::: {.cv-location}
+Sansom Group (University of Oxford)
+:::
+::: {.cv-description}
+Contributed to the study of Inflammatory bowel disease pathogenesis and T-cell development through the development of computational pipelines for bespoke data analysis.
+:::
+:::
 :::
