@@ -75,7 +75,7 @@ a {
 
 /* CV Styling */
 .cv-section {
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
 }
 
 .cv-entry {
@@ -85,9 +85,9 @@ a {
     "dates title"
     "dates location"
     "dates description";
-  gap: 0.25rem 1.5rem;
-  margin-bottom: 1.5rem;
-  padding-bottom: 1rem;
+  gap: 0.15rem 1.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
   border-bottom: 1px solid #e9ecef;
 }
 
@@ -100,29 +100,31 @@ a {
   font-weight: 600;
   color: #495057;
   font-size: 0.9rem;
-  line-height: 1.3;
+  line-height: 1.2;
 }
 
 .cv-title {
   grid-area: title;
   font-weight: 700;
   color: #212529;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.15rem;
   font-size: 1.1rem;
+  line-height: 1.3;
 }
 
 .cv-location {
   grid-area: location;
   color: #6c757d;
   font-style: italic;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.3rem;
   font-size: 0.95rem;
+  line-height: 1.2;
 }
 
 .cv-description {
   grid-area: description;
   color: #495057;
-  line-height: 1.5;
+  line-height: 1.4;
 }
 
 /* Responsive CV layout */
@@ -134,11 +136,15 @@ a {
       "title"
       "location"
       "description";
-    gap: 0.5rem;
+    gap: 0.3rem;
   }
   
   .cv-dates {
     font-size: 0.85rem;
-    margin-bottom: 0.25rem;
+    margin-bottom: 0.15rem;
+  }
+  
+  .cv-section {
+    margin-bottom: 1.25rem;
   }
 }
