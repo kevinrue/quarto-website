@@ -1,8 +1,13 @@
 /* css styles */
 
 a {
-  color: blue;
+  color: #2c5aa0;
   text-decoration: none;
+}
+
+a:hover {
+  color: #1e4080;
+  text-decoration: underline;
 }
 
 /* Header styling - match navbar primary color (Sandstone blue) */
@@ -111,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
 .cv-title {
   grid-area: title;
   font-weight: 700;
-  color: #212529;
+  color: #495057;
   margin-bottom: 0.1rem;
   font-size: 1.1rem;
   line-height: 1.3;
