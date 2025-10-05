@@ -189,7 +189,7 @@ Aug 2009
 Computational Biology Intern
 :::
 ::: {.cv-location}
-INSERM, Unité Mixte de Recherche S725, Biologie des Cellules Dendritiques Humaines (Strasbourg, France)
+[INSERM, Unité Mixte de Recherche S725, Biologie des Cellules Dendritiques Humaines](https://academic.oup.com/jimmunol/article-abstract/188/8/3903/7981527) (Strasbourg, France)
 :::
 ::: {.cv-description}
 Expressed recombinant MHC class II molecules in HeLa cells.
@@ -202,6 +202,26 @@ Expressed recombinant MHC class II molecules in HeLa cells.
 
 ::: {.cv-entry}
 ::: {.cv-dates}
+Oct 2022 -\
+Oct 2023
+:::
+::: {.cv-title}
+Software Developer Consultant
+:::
+::: {.cv-location}
+Self-employed (Oxford, UK)
+:::
+::: {.cv-description}
+Developed three extension packages in the iSEE framework for the analysis and visualisation of spatial transcriptomics data sponsored by [Denali Therapeutics Inc](https://www.denalitherapeutics.com/).
+
+- [iSEEindex](https://github.com/iSEE/iSEEindex)
+- [iSEEde](https://github.com/iSEE/iSEEde)
+- [iSEEpathways](https://github.com/iSEE/iSEEpathways)
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
 Apr 2011 -\
 Jul 2011
 :::
@@ -209,7 +229,7 @@ Jul 2011
 Software Developer Intern
 :::
 ::: {.cv-location}
-MEDIT S.A. (Palaiseau, France)
+[MEDIT S.A.](https://www.linkedin.com/company/medit-sa/) (Palaiseau, France)
 :::
 ::: {.cv-description}
 Implemented functionality for structurally-constrained multiple alignment of protein sequences for the commercial software MED-SuMo.
