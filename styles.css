@@ -1,8 +1,13 @@
 /* css styles */
 
 a {
-  color: blue;
+  color: #2c5aa0;
   text-decoration: none;
+}
+
+a:hover {
+  color: #1e4080;
+  text-decoration: underline;
 }
 
 /* Header styling - match navbar primary color (Sandstone blue) */
