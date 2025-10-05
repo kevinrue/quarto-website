@@ -76,7 +76,7 @@ Contributing to computational biology research and training programs in function
 2017 - 2020
 :::
 ::: {.cv-title}
-Postdoctoral Researcher - Computational Biologist
+Postdoctoral Researcher - Computational Biology
 :::
 ::: {.cv-location}
 Sansom Group (University of Oxford)
@@ -91,7 +91,7 @@ Contributed to the study of Inflammatory bowel disease pathogenesis and T-cell d
 2016 - 2017
 :::
 ::: {.cv-title}
-Postdoctoral Researcher - Computational Biologist
+Postdoctoral Researcher - Computational Biology
 :::
 ::: {.cv-location}
 Ratcliffe Group (University of Oxford)
@@ -170,7 +170,7 @@ Jun 2010 -\
 Sep 2010
 :::
 ::: {.cv-title}
-Computational Biology Intern
+Intern - Computational Biology
 :::
 ::: {.cv-location}
 Shield Group (University College Dublin)
@@ -186,7 +186,7 @@ Jul 2009 -\
 Aug 2009
 :::
 ::: {.cv-title}
-Computational Biology Intern
+Intern - Molecular Biology
 :::
 ::: {.cv-location}
 [INSERM, Unité Mixte de Recherche S725, Biologie des Cellules Dendritiques Humaines](https://academic.oup.com/jimmunol/article-abstract/188/8/3903/7981527) (Strasbourg, France)
