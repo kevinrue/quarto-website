@@ -122,7 +122,7 @@ Apr 2012 -\
 Jul 2012
 :::
 ::: {.cv-title}
-PhD Rotation Project - Molecular biology
+PhD Rotation Project (3 of 3) - Molecular biology
 :::
 ::: {.cv-location}
 O'Gara Group (University College Dublin)
@@ -138,7 +138,7 @@ Jan 2012 -\
 Apr 2012
 :::
 ::: {.cv-title}
-PhD Rotation Project - Molecular biology
+PhD Rotation Project (2 of 3) - Molecular biology
 :::
 ::: {.cv-location}
 Ferguson Group (University College Dublin)
@@ -154,13 +154,34 @@ Sep 2011 -\
 Jan 2012
 :::
 ::: {.cv-title}
-PhD Rotation Project - Molecular biology
+PhD Rotation Project (1 of 3) - Molecular biology
 :::
 ::: {.cv-location}
 Shield Group (University College Dublin)
 :::
 ::: {.cv-description}
 Predicted *Mycobacterium bovis* epitopes in cattle using *in silico* structure-based modelling.
+:::
+:::
+:::
+
+::: {.cv-section}
+### Professional Experience
+
+::: {.cv-entry}
+::: {.cv-dates}
+Apr 2011 -\
+Jul 2011
+:::
+::: {.cv-title}
+Software Developer Intern
+:::
+::: {.cv-location}
+MEDIT S.A. (Palaiseau, France)
+:::
+::: {.cv-description}
+Implemented functionality for structurally-constrained multiple alignment of protein sequences for the commercial software MED-SuMo.
+:::
 :::
 :::
 :::
