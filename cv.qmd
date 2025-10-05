@@ -163,6 +163,38 @@ Shield Group (University College Dublin)
 Predicted *Mycobacterium bovis* epitopes in cattle using *in silico* structure-based modelling.
 :::
 :::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Jun 2010 -\
+Sep 2010
+:::
+::: {.cv-title}
+Computational Biology Intern
+:::
+::: {.cv-location}
+Shield Group (University College Dublin)
+:::
+::: {.cv-description}
+Analysed structural disorder in *Saccharomyces cerevisiae* interacting proteins.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Jul 2009 -\
+Aug 2009
+:::
+::: {.cv-title}
+Computational Biology Intern
+:::
+::: {.cv-location}
+INSERM, Unité Mixte de Recherche S725, Biologie des Cellules Dendritiques Humaines (Strasbourg, France)
+:::
+::: {.cv-description}
+Expressed recombinant MHC class II molecules in HeLa cells.
+:::
+:::
 :::
 
 ::: {.cv-section}
