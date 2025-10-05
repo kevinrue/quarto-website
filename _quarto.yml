@@ -4,6 +4,7 @@ project:
 website:
   title: "Kevin Rue-Albrecht"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
@@ -12,7 +13,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
     # link-external-icon: true
