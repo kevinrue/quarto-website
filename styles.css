@@ -5,6 +5,11 @@ a {
   text-decoration: none;
 }
 
+/* Header styling - match navbar primary color (Sandstone blue) */
+h1, h2, h3, h4, h5, h6 {
+  color: #325d88;
+}
+
 /* Ensure Bootstrap grid works properly in Quarto */
 .container-fluid {
   width: 100%;
