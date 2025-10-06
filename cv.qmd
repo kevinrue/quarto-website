@@ -157,7 +157,7 @@ Jan 2012
 PhD Rotation Project (1 of 3) - Molecular biology
 :::
 ::: {.cv-location}
-Shield Group (University College Dublin)
+[Shield Group](https://people.ucd.ie/denis.shields/) / [Gordon Group](https://people.ucd.ie/stephen.gordon/) (University College Dublin)
 :::
 ::: {.cv-description}
 Predicted *Mycobacterium bovis* epitopes in cattle using *in silico* structure-based modelling.
@@ -173,10 +173,15 @@ Sep 2010
 Intern - Computational Biology
 :::
 ::: {.cv-location}
-Shield Group (University College Dublin)
+
+[Shield Group](https://people.ucd.ie/denis.shields/) (University College Dublin)
 :::
 ::: {.cv-description}
 Analysed structural disorder in *Saccharomyces cerevisiae* interacting proteins.
+
+Project supervisor: [Dr. Nora Khaldi](https://www.nuritas.com/team/dr-nora-khaldi/)
+
+Article: [Correlation of disorder between *S. cerevisiae* interacting proteins](https://pubs.rsc.org/en/content/articlelanding/2012/mb/c1mb05214d)
 :::
 :::
 
@@ -193,6 +198,8 @@ Intern - Molecular Biology
 :::
 ::: {.cv-description}
 Expressed recombinant MHC class II molecules in HeLa cells.
+
+Project supervisor: [Henri de la Salle](https://orcid.org/0000-0001-5136-0776)
 :::
 :::
 :::
