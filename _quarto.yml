@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Kevin Rue-Albrecht"
+  favicon: static/images/kevinrue.jpg
   navbar:
     background: primary
     left:
