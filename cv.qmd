@@ -181,7 +181,10 @@ Analysed structural disorder in *Saccharomyces cerevisiae* interacting proteins.
 
 Project supervisor: [Dr. Nora Khaldi](https://www.nuritas.com/team/dr-nora-khaldi/)
 
-Article: [Correlation of disorder between *S. cerevisiae* interacting proteins](https://pubs.rsc.org/en/content/articlelanding/2012/mb/c1mb05214d)
+::: {.cv-publications}
+<span class="pub-label">Publication:</span>
+<div class="pub-item">[Correlation of disorder between *S. cerevisiae* interacting proteins](https://pubs.rsc.org/en/content/articlelanding/2012/mb/c1mb05214d)</div>
+:::
 :::
 :::
 
