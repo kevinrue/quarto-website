@@ -246,3 +246,59 @@ Implemented functionality for structurally-constrained multiple alignment of pro
 :::
 :::
 :::
+
+::: {.cv-section}
+### Teaching Experience
+
+::: {.cv-entry}
+::: {.cv-dates}
+Oct 2025
+:::
+::: {.cv-title}
+R for data science and genomics
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Nine days of hands-on training covering R programming, data science principles, and genomic data analysis (11 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Sep 2025 -\
+Oct 2025
+:::
+::: {.cv-title}
+Genomics on the Linux command line
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Five days of hands-on training covering Linux command line tools for genomic data analysis (11 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Aug 2025
+:::
+::: {.cv-title}
+Orchestrating Large-Scale Single-Cell Analysis with Bioconductor
+:::
+::: {.cv-location}
+[The Carpentries](https://carpentries.org/) + [Bioconductor](https://www.bioconductor.org/)
+:::
+::: {.cv-description}
+Two days of hands-on training covering the Bioconductor ecosystem for single-cell RNA-seq analysis (21 participants).
+
+- [Event page](https://eurobioc2025.bioconductor.org/pages/carpentryworkshops.html)
+- [Lesson materials](https://carpentries-incubator.github.io/bioc-scrnaseq/)
+
+:::
+:::
+:::
+
+[obds-training]: https://www.imm.ox.ac.uk/research/units-and-centres/mrc-wimm-centre-for-computational-biology/training/oxford-biomedical-data-science-training-programme
