@@ -64,7 +64,7 @@ Lycée Jean Rostand, Strasbourg (France)
 Computational Biologist & Biomedical Data Science Trainer
 :::
 ::: {.cv-location}
-Sims Group (University of Oxford)
+[Sims Group](https://www.imm.ox.ac.uk/research/research-groups/sims-group-computational-genomics) (University of Oxford)
 :::
 ::: {.cv-description}
 Contributing to computational biology research and training programs in functional genomics and single-cell sequencing analysis.
@@ -79,7 +79,7 @@ Contributing to computational biology research and training programs in function
 Postdoctoral Researcher - Computational Biology
 :::
 ::: {.cv-location}
-Sansom Group (University of Oxford)
+[Sansom Group](https://www.kennedy.ox.ac.uk/research/research-groups/computational-genomics) (University of Oxford)
 :::
 ::: {.cv-description}
 Contributed to the study of Inflammatory bowel disease pathogenesis and T-cell development through the development of computational pipelines for bespoke data analysis.
@@ -94,7 +94,7 @@ Contributed to the study of Inflammatory bowel disease pathogenesis and T-cell d
 Postdoctoral Researcher - Computational Biology
 :::
 ::: {.cv-location}
-Ratcliffe Group (University of Oxford)
+[Ratcliffe Group](https://www.ludwig.ox.ac.uk/research/prof-sir-peter-ratcliffe-oxygen-sensing) (University of Oxford)
 :::
 ::: {.cv-description}
 Managed data and computational workflows for high-throughput sequencing projects including targeted DNA resequencing, ChIP-seq, and RNA-seq for renal cancer research.
@@ -109,7 +109,7 @@ Managed data and computational workflows for high-throughput sequencing projects
 Research associate - Bioinformatics & Biostatistics
 :::
 ::: {.cv-location}
-Wilkins Group (Imperial College London)
+[Wilkins Group](https://profiles.imperial.ac.uk/m.wilkins) (Imperial College London)
 :::
 ::: {.cv-description}
 Managed data and computational workflows for high-throughput sequencing projects including targeted DNA resequencing, ChIP-seq, and RNA-seq for renal cancer research.
@@ -125,7 +125,7 @@ Jul 2012
 PhD Rotation Project (3 of 3) - Molecular biology
 :::
 ::: {.cv-location}
-O'Gara Group (University College Dublin)
+[O'Gara Group](https://orcid.org/0000-0003-3866-7161) (University College Dublin)
 :::
 ::: {.cv-description}
 Evaluated the role of a gene candidate underlying *Staphylococcus aureus* antibiotic resistance by Sanger sequencing and biofilm assay.
@@ -141,7 +141,7 @@ Apr 2012
 PhD Rotation Project (2 of 3) - Molecular biology
 :::
 ::: {.cv-location}
-Ferguson Group (University College Dublin)
+[Ferguson Group](https://www.researchgate.net/scientific-contributions/Neil-Ferguson-38863526) (University College Dublin)
 :::
 ::: {.cv-description}
 Expressed and purified a Hepatitis B protein construct for experimental screening of interacting drug fragments.
