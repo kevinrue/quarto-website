@@ -9,6 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: software.qmd
+        text: Software
       - href: cv.qmd
         text: CV
 
