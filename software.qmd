@@ -25,6 +25,7 @@ Interactive SummarizedExperiment Explorer - A Bioconductor package for interacti
 ![](https://img.shields.io/github/stars/iSEE/iSEE?style=social)
 ![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)
 ![](https://bioconductor.org/shields/years-in-bioc/iSEE.svg)
+![](https://img.shields.io/badge/published-F1000Research-blue)
 :::
 :::
 
