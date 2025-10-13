@@ -19,5 +19,26 @@
     "title": "Kevin Rue-Albrecht",
     "section": "",
     "text": "I am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "My research and development work has resulted in various software packages, primarily focused on bioinformatics and data visualization.\n\n\n\niSEE\n\n\nInteractive SummarizedExperiment Explorer - A Bioconductor package for interactive visualization of genomics data.\n\n\n Website      GitHub      Bioconductor      Paper\n\n\n  \n\n\n\n\niSEEindex\n\n\nExtension package for iSEE that provides functionality to create interactive multi-dataset explorers.\n\n\n GitHub      Bioconductor\n\n\n \n\n\n\n\niSEEde\n\n\nExtension package for iSEE providing panels for differential expression analysis visualization.\n\n\n GitHub      Bioconductor\n\n\n \n\n\n\n\niSEEpathways\n\n\nExtension package for iSEE providing panels for pathway analysis visualization.\n\n\n GitHub      Bioconductor"
+  },
+  {
+    "objectID": "software.html#r-packages-software",
+    "href": "software.html#r-packages-software",
+    "title": "Software",
+    "section": "",
+    "text": "My research and development work has resulted in various software packages, primarily focused on bioinformatics and data visualization.\n\n\n\niSEE\n\n\nInteractive SummarizedExperiment Explorer - A Bioconductor package for interactive visualization of genomics data.\n\n\n Website      GitHub      Bioconductor      Paper\n\n\n  \n\n\n\n\niSEEindex\n\n\nExtension package for iSEE that provides functionality to create interactive multi-dataset explorers.\n\n\n GitHub      Bioconductor\n\n\n \n\n\n\n\niSEEde\n\n\nExtension package for iSEE providing panels for differential expression analysis visualization.\n\n\n GitHub      Bioconductor\n\n\n \n\n\n\n\niSEEpathways\n\n\nExtension package for iSEE providing panels for pathway analysis visualization.\n\n\n GitHub      Bioconductor"
+  },
+  {
+    "objectID": "software.html#other-contributions",
+    "href": "software.html#other-contributions",
+    "title": "Software",
+    "section": "Other Contributions",
+    "text": "Other Contributions\n\n\n\nPanpipes\n\n\nA collection of cgat-core/ruffus pipelines to streamline the analysis of multi-modal single cell data. Supports scRNAseq, CITEseq, scV(D)Jseq, scATACseq, and spatial transcriptomics data with comprehensive workflows for quality control, preprocessing, integration, clustering, and visualization.\n\n\n Documentation      GitHub      Paper"
   }
 ]

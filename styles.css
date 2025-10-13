@@ -180,3 +180,85 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.4;
   margin-bottom: 0.15rem;
 }
+
+/* Software Section Styling */
+.software-section {
+  margin-bottom: 2rem;
+}
+
+.software-entry {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  background-color: #f8f9fa;
+  transition: box-shadow 0.2s ease;
+}
+
+.software-entry:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.software-name {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #325d88;
+  margin-bottom: 0.3rem;
+}
+
+.software-description {
+  color: #495057;
+  line-height: 1.5;
+  margin-bottom: 0.75rem;
+}
+
+.software-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.software-links a {
+  color: #2c5aa0;
+  text-decoration: none;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.software-links a:hover {
+  text-decoration: underline;
+}
+
+.software-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.software-badges img {
+  height: 20px;
+}
+
+/* Responsive adjustments for software page */
+@media (max-width: 768px) {
+  .software-entry {
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .software-links {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .software-badges {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
