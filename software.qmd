@@ -43,6 +43,7 @@ Extension package for iSEE that provides functionality to create interactive mul
 ::: {.software-badges}
 ![](https://img.shields.io/github/stars/iSEE/iSEEindex?style=social)
 ![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)
+![](https://bioconductor.org/shields/years-in-bioc/iSEEindex.svg)
 :::
 :::
 
@@ -60,6 +61,7 @@ Extension package for iSEE providing panels for differential expression analysis
 ::: {.software-badges}
 ![](https://img.shields.io/github/stars/iSEE/iSEEde?style=social)
 ![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)
+![](https://bioconductor.org/shields/years-in-bioc/iSEEde.svg)
 :::
 :::
 
@@ -77,6 +79,7 @@ Extension package for iSEE providing panels for pathway analysis visualization.
 ::: {.software-badges}
 ![](https://img.shields.io/github/stars/iSEE/iSEEpathways?style=social)
 ![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)
+![](https://bioconductor.org/shields/years-in-bioc/iSEEpathways.svg)
 :::
 :::
 
