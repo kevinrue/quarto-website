@@ -571,6 +571,52 @@ Genomics on the Linux command line
 Five days of hands-on training covering Linux command line tools for genomic data analysis (11 participants).
 :::
 :::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Oct 2023
+:::
+::: {.cv-title}
+Introduction to single-cell RNAseq data analysis using R
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Six days of hands-on training covering single-cell analysis using Seurat and Bioconductor (12 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Sep 2023-\
+Oct 2023
+:::
+::: {.cv-title}
+R for data science and genomics
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Nine days of hands-on training covering R programming, data science principles, and genomic data analysis (13 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Sep 2023
+:::
+::: {.cv-title}
+Genomics on the Linux command line
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Five days of hands-on training covering Linux command line tools for genomic data analysis (13 participants).
+:::
+:::
 :::
 
 [obds-training]: https://www.imm.ox.ac.uk/research/units-and-centres/mrc-wimm-centre-for-computational-biology/training/oxford-biomedical-data-science-training-programme
