@@ -222,7 +222,7 @@ Software Developer Consultant
 Self-employed (Oxford, UK)
 :::
 ::: {.cv-description}
-Developed three extension packages in the iSEE framework for the analysis and visualisation of spatial transcriptomics data sponsored by [Denali Therapeutics Inc](https://www.denalitherapeutics.com/).
+Developed three extension packages in the iSEE framework for the analysis and visualisation of omics data sponsored by [Denali Therapeutics Inc](https://www.denalitherapeutics.com/).
 
 - [iSEEindex](https://github.com/iSEE/iSEEindex)
 - [iSEEde](https://github.com/iSEE/iSEEde)
@@ -296,7 +296,21 @@ Two days of hands-on training covering the Bioconductor ecosystem for single-cel
 
 - [Event page](https://eurobioc2025.bioconductor.org/pages/carpentryworkshops.html)
 - [Lesson materials](https://carpentries-incubator.github.io/bioc-scrnaseq/)
+:::
+:::
 
+::: {.cv-entry}
+::: {.cv-dates}
+Jul 2024
+:::
+::: {.cv-title}
+Spatial Transcriptomics data analysis using R
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Four days of hands-on training covering spatial transcriptomics data analysis (12 participants).
 :::
 :::
 
@@ -387,6 +401,128 @@ Genomics on the Linux command line
 :::
 ::: {.cv-description}
 Five days of hands-on training covering Linux command line tools for genomic data analysis (9 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Dec 2024
+:::
+::: {.cv-title}
+Containers for Reproducible Research
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+One day of hands-on training covering containerization technologies (e.g., Apptainer) for reproducible research (8 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Nov 2024
+:::
+::: {.cv-title}
+Introduction to single-cell RNAseq data analysis using R
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Six days of hands-on training covering single-cell analysis using Seurat and Bioconductor (11 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Oct 2024
+:::
+::: {.cv-title}
+R for data science and genomics
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Nine days of hands-on training covering R programming, data science principles, and genomic data analysis (14 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Sep 2024 -\
+Oct 2024
+:::
+::: {.cv-title}
+Genomics on the Linux command line
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Five days of hands-on training covering Linux command line tools for genomic data analysis (13 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Sep 2024
+:::
+::: {.cv-title}
+Spatial Transcriptomics Data Camp
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Five days of hands-on training covering spatial transcriptomics data analysis (25 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Jun 2024
+:::
+::: {.cv-title}
+Introduction to single-cell RNAseq data analysis using R
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Six days of hands-on training covering single-cell analysis using Seurat and Bioconductor (13 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+May 2024
+:::
+::: {.cv-title}
+R for data science and genomics
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Nine days of hands-on training covering R programming, data science principles, and genomic data analysis (10 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Apr 2024-\
+May 2025
+:::
+::: {.cv-title}
+Genomics on the Linux command line
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Five days of hands-on training covering Linux command line tools for genomic data analysis (11 participants).
 :::
 :::
 :::
