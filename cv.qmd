@@ -513,7 +513,53 @@ Nine days of hands-on training covering R programming, data science principles, 
 ::: {.cv-entry}
 ::: {.cv-dates}
 Apr 2024-\
-May 2025
+May 2024
+:::
+::: {.cv-title}
+Genomics on the Linux command line
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Five days of hands-on training covering Linux command line tools for genomic data analysis (11 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Mar 2024
+:::
+::: {.cv-title}
+Introduction to single-cell RNAseq data analysis using R
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Six days of hands-on training covering single-cell analysis using Seurat and Bioconductor (10 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Feb 2024-\
+Mar 2024
+:::
+::: {.cv-title}
+R for data science and genomics
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Nine days of hands-on training covering R programming, data science principles, and genomic data analysis (13 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Feb 2024
 :::
 ::: {.cv-title}
 Genomics on the Linux command line
